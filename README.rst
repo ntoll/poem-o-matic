@@ -1,2 +1,4 @@
-# poem-o-matic
+poem-o-matic
+============
+
 Computer generated poetry - on demand.
